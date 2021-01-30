@@ -1,4 +1,4 @@
-Context	Hypothesis	Entailment_Label	Topic_Label
+premise	hypothesis	label	topic
 गोपनीयता की नीति	यह खबर की सूचना है|	entailed	1
 गोपनीयता की नीति	यह खबर की सूचना नहीं है|	not-entailed	1
 गोपनीयता की नीति	यह विज्ञान की सूचना है|	not-entailed	1
