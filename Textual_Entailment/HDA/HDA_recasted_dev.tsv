@@ -1,4 +1,4 @@
-Context	Hypothesis	Entailment_Label	Discourse_Label
+premise	hypothesis	label	topic
 चेहरे पर इस की आँखें बहुत अजीब थीं।	यह एक विवादपूर्ण कथन है।	not-entailed	1
 चेहरे पर इस की आँखें बहुत अजीब थीं।	यह एक विवादपूर्ण कथन नहीं है।	entailed	1
 चेहरे पर इस की आँखें बहुत अजीब थीं।	यह एक वर्णनात्मक कथन है।	entailed	1
